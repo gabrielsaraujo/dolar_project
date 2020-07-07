@@ -23,6 +23,7 @@ public class Program {
 		
 		
 		System.out.println("GitHub!");
+		System.out.println("Continue with GitHub!");
 		
 		sc.close();
 
