@@ -22,6 +22,8 @@ public class Program {
 		System.out.printf("Amount to be paid in reais = %.2f", converter);
 		
 		
+		System.out.println("GitHub!");
+		
 		sc.close();
 
 	}
