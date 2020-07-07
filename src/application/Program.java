@@ -21,9 +21,9 @@ public class Program {
 		double converter = CurrencyConverter.converterDolar(dolarValue, dolarQuantity);
 		System.out.printf("Amount to be paid in reais = %.2f", converter);
 		
-		
 		System.out.println("GitHub!");
 		System.out.println("Continue with GitHub!");
+		System.out.println("Stil in the GitHub");
 		
 		sc.close();
 
